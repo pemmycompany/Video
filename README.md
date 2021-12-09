@@ -1,5 +1,7 @@
 # Video
 Vídeo sobre o trabalho final 
 
-![Vídeo sobre o jogo](https://github.com/pemmycompany/Video/blob/main/V%C3%ADdeoUltimateUnaQuiz.mp4)
+![Parte 1](https://github.com/pemmycompany/Video/blob/main/parte1.mp4)
+
+![Parte 2](https://github.com/pemmycompany/Video/blob/main/parte2.mp4)
 
